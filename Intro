@@ -1,0 +1,63 @@
+Microsoft Purview helps organization manage their entire data estate, including governance, risk, and compliance solutions.
+
+There is two types of solutions:
+- Microsoft Purview Risk and Compliance Solutions (M365)
+  Help you monitor your data, protect information and minimize compliance risks, and meet regulatory compliance.
+- Microsoft Purview Governance Solutions (Azure)
+  Provides a unified data governance service that helps to manage on-premises, multi-cloud, and software-as-a-service (SaaS) Data or SaaS aplications.
+
+Who can benefit?
+
+Anyone:
+-Individual or organizations in need of data governance solutions.
+-Data professionals, such as data engineers, data analysts, and data stewards´.
+-IT professionals who want to learn data compliance and governance
+-Security administrator who focus on M365.
+
+Required services: M365 and MAzure
+
+- Microsot 365 tenant (E5 license or MPurview solutions trial)
+- Member of any of these admin roles: billing admin, compliance admin, global admin, compliance data admin.
+
+
+To utilize MPurview Governance Solutions:
+- Have an active azure subscription
+- Member of any of these admin roles: global admin, information protection admin, optional: powerbi admin.
+- and an active MPurivew active account
+
+
+MPurivew Risk and Compliance Solutions
+
+Insider Threat Mitigation
+  -Communication Compliance
+  -Insider Risk Management
+  -Information Barriers
+  -Privileged Access Management
+
+Compliance Management Features: helps simplify compliance and reduce the risk process by providing pre-built assessments for the majority of the regional and resgulatory standards.
+
+Information Protection: Provides specific feature. 
+  .Sensistive information types
+  .Tranable classifiers
+  .Data classification
+  .Sensitivity labels and policies 
+  .Encryption
+  .On-premises content scanning
+
+Data Loss Provention: implement by defining and applying Data Loss Prevention (DLP) policies.
+
+Records Management Features
+
+eDiscovery Components
+
+Audit Logging Options
+
+
+Portal Access:
+.Microsoft Purview Compliance Portal: https://admin.microsoft.com/
+.Microsoft Purview Governance Solutions: https://web.purview.azure.com/
+  -Microsoft Purview Data Catalog: Find data sources by browsing and searching data assets
+  -Data Sharing: Securily share data internally or cross organizations
+  -Data Policy: central cloud-based provisioning of access to data securely and at scale
+
+
